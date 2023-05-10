@@ -1,0 +1,46 @@
+{
+    "football teams": [
+        {
+            "id": 1,
+            "team": "Alabama",
+            "mascot": "Crimson Tide",
+            "chant": "Roll Tide"
+        },
+        {
+            "id": 2,
+            "team": "Georgia",
+            "mascot": "Bulldogs",
+            "chant": "Go Dogs"
+        },
+        {
+            "id": 3,
+            "team": "LSU",
+            "mascot": "Tigers",
+            "chant": "Geaux Tigers"
+        },
+        {
+            "id": 4,
+            "team": "Auburn",
+            "mascot": "Tigers",
+            "chant": "War Eagle"
+        },
+        {
+            "id": 5,
+            "team": "Texas",
+            "mascot": "Longhorns",
+            "chant": "Hook 'em"
+        },
+        {
+            "id": 6,
+            "team": "Oklahoma",
+            "mascot": "Sooners",
+            "chant": "Boomer Sooner"
+        },
+        {
+            "id": 7,
+            "team": "TCU",
+            "mascot": "Horned Frogs",
+            "chant": "Go Frogs"
+        }
+    ]
+}
