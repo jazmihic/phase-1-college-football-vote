@@ -9,29 +9,13 @@
     <script src="main.js" defer></script>
 </head>
 <body>
-    <h1>College Football Rankings</h1>
+    <h1 id="title">College Football Rankings</h1>
     <h2> After watching all of your favorite college football teams play, you can rank them here!</h2>
 
     <form>
-        <label> Select Team</label>
-        <select id="football-teams" name="teams">
-        </select>
-
-        <label for=""></label>
-      <select name="ranking" id="spot">
-        <option value="1">1</option>
-        <option value="2">2</option>
-        <option value="3">3</option>
-        <option value="4">4</option>
-        <option value="5">5</option>
-        <option value="6">6</option>
-        <option value="7">7</option>
-        <option value="8">8</option>
-        <option value="9">9</option>
-        <option value="10">10</option>
-      </select>
-
-      <input type="submit" value="rank-team">
+        <label for ="teams"> Select Team</label>
+        <input id="searchByTeam" type="text" placeholder="Type Team name">
+        <input type="submit" placeholder="submit"/>
     </form>
 
     <h1> Your Rankings:</h1>
